@@ -53,7 +53,7 @@ variable "rds_replica_azs" {
 }
 variable "sg_vpc_id" {
     type = string
-    default = "vpc-02f97ab5ea86f7d26"
+    default = "vpc-08df32a1d4f92d554"
   
 }
 variable "sg_ingress_from_port" {
